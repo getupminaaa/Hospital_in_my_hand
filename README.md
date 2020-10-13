@@ -6,8 +6,6 @@
 
 - 내 손 안의 병원
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54ad372e-a2d5-4bd4-80c1-42dbf336d9cf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54ad372e-a2d5-4bd4-80c1-42dbf336d9cf/Untitled.png)
-
 ## 주제
 
 ---
