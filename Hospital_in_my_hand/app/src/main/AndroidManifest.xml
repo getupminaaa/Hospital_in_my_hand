@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FindRootActivity"></activity>
+        <activity android:name=".FindRootActivity"
+            android:screenOrientation="landscape"></activity>
     </application>
 
 </manifest>
