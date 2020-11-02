@@ -14,12 +14,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         fRBtn =(Button)findViewById(R.id.mFindRootPageBtn);
-        fRBtn.setOnClickListener(new View.OnClickListener() {
+        View.OnClickListener onClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), FindRootActivity.class);
                 startActivity(intent);
             }
-        });
+        };
+        fRBtn.setOnClickListener(onClickListener);
     }
 }
